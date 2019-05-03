@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "172812111453",
+    "firebase_url": "https://crossborder-53ded.firebaseio.com",
+    "project_id": "crossborder-53ded",
+    "storage_bucket": "crossborder-53ded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172812111453:android:dc19efe611e4fca6",
+        "android_client_info": {
+          "package_name": "com.example.crossborder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172812111453-4m35ar4ad51fa2o4shllii9gstjflm8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crossborder",
+            "certificate_hash": "944c83adbaac1eea2157885696cbc234524c6fbb"
+          }
+        },
+        {
+          "client_id": "172812111453-8p316uf3mlhbp6fr8opp699pr007fsoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWm_C8B8lZ-tODqE2ewsTQkFl5HOUJIkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172812111453-8p316uf3mlhbp6fr8opp699pr007fsoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
